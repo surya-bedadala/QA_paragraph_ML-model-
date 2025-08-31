@@ -1,6 +1,6 @@
 # QA_paragraph_ML-model-
 Question Answering ML model .. which analyse the given input paragraph and gives accurate answer to user given question..This projects used pretrained models from Transformers in Huggingface 
-1. Project Overview
+1. Project Overview 
 
 This project showcases the implementation of an extractive question-answering system leveraging the Hugging Face Transformers library and a pretrained BERT model fine-tuned for SQuAD-style tasks. Users can input a context passage and pose natural-language questions; the system extracts the best answer span directly from the context.
 
